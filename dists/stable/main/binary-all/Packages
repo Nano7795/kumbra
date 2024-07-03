@@ -1,0 +1,28 @@
+Package: toto
+Version: 1.0.1
+Maintainer: Kalua
+Architecture: all
+Installed-Size: 25
+Depends: python
+Description: This tool is only for testing
+Filename: dists/stable/main/binary-all/toto.deb
+Size: 872
+MD5Sum: ca74ce1ce411b2eb6c3e50a5d0af8837
+SHA1: 34ec69f94cbbc3f2adb0be46f3f03ad757b1e8e7
+SHA256: 238eada776e771a9997e74922eddf54cfbebb5b514a3a3628dfad3cab9cce015
+SHA512: 7e1b08107c2ef53f1a72f317912fbb53c655d00f0ba2578e9b1ff4b1e830eb348ea3ea7f433dd1a2e80ef14d820fb2a9e996f1da51b7d957d67b8432aeae3f25
+
+Package: ttool
+Version: 1.0.1
+Maintainer: Kalua
+Architecture: all
+Installed-Size: 25
+Depends: python
+Description: This tool is only for testing
+Filename: dists/stable/main/binary-all/ttool.deb
+Size: 872
+MD5Sum: d00a8936c4082cb53b8ff3e8559b15ca
+SHA1: 8a1746fa5216fa4e107dd74463b47c0321f1af8c
+SHA256: e8b16fdde042b8d09840c0577d2cf1753d4bf481279b28579ee2864f395687c8
+SHA512: 40e2a61682b1a181944730e38eff7a4d4f3f648583bb5ae7bce4b97f89a2c17fd63eeb00bc6dd261204e52ff0a39fbb1bca224298f7de56842f1284d52bf55cb
+

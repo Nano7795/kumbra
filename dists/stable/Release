@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: stable repository
+Suite: stable
+Date: Wed, 03 Jul 2024 10:33:10 UTC
+Components: main
+MD5Sum:
+ c6a506e534ee46ea09b9a3d52dd0cfd2 1002 main/binary-all/Packages
+ 4c208a36be035769bee038a769223967 636 main/binary-all/Packages.xz
+ 1e0ed149b2259319864f36d40f3b65ba 173 main/Contents-all
+ 1cf1c8f95d8440cd421abdddab473fb2 128 main/Contents-all.xz
+SHA1:
+ ba4a24b593fe22e0297fa83c485ea60087490ad2 1002 main/binary-all/Packages
+ b40882beef820e778ae2965ea59a4a26b87bee4f 636 main/binary-all/Packages.xz
+ 1fc62b661bab53e72ab52e54ba1f24cb919dff70 173 main/Contents-all
+ 2ed327f36a69667df693d1456808d547aacc813b 128 main/Contents-all.xz
+SHA256:
+ 894ad86ba034c98d74f6cab2e52ea27d30dd6f6e0b32aba29593d54836b4be0b 1002 main/binary-all/Packages
+ f7b106f9122cd2e75cd2d608aa9a955bed2f0a533cbcb5fe9476cc2bb33d4e06 636 main/binary-all/Packages.xz
+ 75fb8fff1bab27f33ee431908e60b72af0f0833a35814405bc652ba8a4e2bd01 173 main/Contents-all
+ fbdfbe01b7bef428e277b608343891ee09160ec3c22b54412fbd75154485dd6a 128 main/Contents-all.xz
+SHA512:
+ 452f990e1fbde2248821ebe48d7eb37137a356aac1d8a076ae3ef3523a8c89bdefe8121583ea39fff50192354534a1a91bc3ee909553ed2cfe27f1020c30cfe2 1002 main/binary-all/Packages
+ dd697f4bee37951fdfbbb5d0672437568d7ded0e4845e1bb3faeb98dd4dcefc0141b27a0c05db2d956c338fde16bb6d2042ff0e79fc899cc8521ff217fceb087 636 main/binary-all/Packages.xz
+ 1711f80a38f072c91fca34c8bd20f15417d7d93c97961c7df1a32cdcb12dd89b29df0b5223b03825684ca9a936054b043962695ef03ee3aa26d0ff5b22066e3b 173 main/Contents-all
+ f25643dd43ed73a08f1a1bd7553686d77c35e9a2f8632c9262e8d71d60e4fb1f8389750ddca51012265fe8b8a572021a9672b3e65c3543512462d526e9b09b9f 128 main/Contents-all.xz
