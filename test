@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e "\e[32mInstalling depends..."
-apt install python cmatrix -y > /dev/null 2>&1 
+apt install gnupg curl -y > /dev/null 2>&1 
 
 echo adding sources demo-tools repo 
 sleep 2
