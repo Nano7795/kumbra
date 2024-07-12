@@ -4,10 +4,14 @@ Demo test
 1. ttool
 2. toto
 
-   ### you can add my repo using this simple single line command
+### you can add my repo using this simple single line command
 
 ```
-   curl -sL https://github.com/Nano7795/kumbra/raw/main/test | bash
+curl -sL https://github.com/Nano7795/kumbra/raw/main/test | bash
  ```
 
-testing
+only for testing
+
+# credit goes to 
+Alienkrishn (YouTube)
+Anon4You (GitHub)
